@@ -29,16 +29,16 @@ public class Collatz {
 			while (current!=1);
 			
 			System.out.print("(" + counter+ ")");
-            System.err.println();
+            System.out.println();
 			counter=0;
 
 	    	}
 
-		    System.err.println("Every one of the first " + num + " hailston sequences reach 1");
+		    System.err.println("Every one of the first " + num + " hailston sequences reach 1.");
 
 		}
 		else{
-			System.err.println("Every one of the first " + num + " hailston sequences reach 1");
+			System.err.println("Every one of the first " + num + " hailston sequences reach 1.");
 		}
 	}
 }
