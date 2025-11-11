@@ -34,11 +34,11 @@ public class Collatz {
 
 	    	}
 
-		    System.err.println("Every one of the first " + num + " hailston sequences reach 1.");
+		    System.err.println("Every one of the first " + num + " hailstone sequences reached 1.");
 
 		}
 		else{
-			System.err.println("Every one of the first " + num + " hailston sequences reach 1.");
+			System.err.println("Every one of the first " + num + " hailstone sequences reached 1.");
 		}
 	}
 }
