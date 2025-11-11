@@ -17,7 +17,7 @@ public class TimeCalc {
          if (NewMinutes<10){ 
             BeforeMinutes="0";
         }
-        System.err.println(BeforeHours+ NewHours + ":" + BeforeMinutes+ NewMinutes);
+        System.out.println(BeforeHours+ NewHours + ":" + BeforeMinutes+ NewMinutes);
 
 
 
